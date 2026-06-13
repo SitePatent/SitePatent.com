@@ -1,4 +1,3 @@
-![SitePatent](https://sitepatent.com/logo.svg)
 
 # SitePatent
 
